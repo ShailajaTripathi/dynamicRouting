@@ -1,0 +1,23 @@
+.post_dataItem{
+    width: 50%;
+    height: 50%;
+    background-color:rgb(239, 242, 247);
+    margin-left:30%;
+    margin-right: 30%;
+}
+.todo_data{
+    width: 70%;
+    background-color:rgb(239, 242, 247);
+    margin-left:15%;
+   
+}
+.todo_data td{
+    border-left: 1px solid rgb(165, 165, 165);
+}
+.todo_data th{
+    border-bottom: 1px solid rgb(165, 165, 165);
+    border-left:1px solid rgb(165, 165, 165);
+}
+.todo_data img{
+width: 40%;
+}

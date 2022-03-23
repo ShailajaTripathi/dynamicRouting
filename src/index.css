@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a.active{
+  color:rgb(223, 99, 27);
+  border: 1px solid rgb(223, 99, 27);
+}
+
+a{
+text-decoration:none;
+padding-left:2%;
+padding-right:2%;
+margin:2%;
+}
+.nav-bar{
+  width:550px;
+  height: 20px;
+  align-items:center;
+  margin-left: 30%;
+  margin-right:30%;
+  margin-top:1%;
+  padding-top:2%;
+  padding-bottom:2%;
+  background-color: rgb(236, 248, 246);
+  /* padding:3%; */
+}
