@@ -12,7 +12,7 @@ function Navigation() {
           <NavLink exact activeClassName="active" to='/comments'>
             Comments
           </NavLink>
-          <NavLink exact activeClassName="active" to='/album' activeStyle>
+          <NavLink exact activeClassName="active" to='/albums' activeStyle>
             Album
           </NavLink>
           <NavLink exact activeClassName="active" to='/photos' activeStyle>
